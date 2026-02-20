@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./image-face-detection.jpg" alt="Imagem de Detecção de Faces" width= "100%">
+    <img src="./assets/image-face-detection.jpg" alt="Imagem de Detecção de Faces" width= "100%">
 </div>
 
 # ML Avanti Bootcamp - Projeto de Detecção Facial
