@@ -4,6 +4,8 @@
 
 # ML Avanti Bootcamp - Projeto de Detecção Facial
 
+Slides da apresentação no Demoday: https://www.canva.com/design/DAHCuvqBXco/jx3W0c5gUz4GrPjG8n76ug/view?utm_content=DAHCuvqBXco&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1e3da17185
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![OpenDatasets](https://img.shields.io/badge/OpenDatasets-009688?style=for-the-badge&logo=kaggle&logoColor=white)![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)![Pillow](https://img.shields.io/badge/Pillow-2908AB?style=for-the-badge&logoColor=white)![ImageHash](https://img.shields.io/badge/ImageHash-44ADAD?style=for-the-badge&logoColor=white)
 
 ## Base de Dados
